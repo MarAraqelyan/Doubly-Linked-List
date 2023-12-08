@@ -1,4 +1,4 @@
-from doublyLinkedList import LinkedList
+from DoublyLinkedList import LinkedList
 
 def main():
 
